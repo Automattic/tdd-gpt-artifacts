@@ -16,7 +16,7 @@ available at this repository.
     -->
     <plugin
             id="com.automattic.tddgpt"
-            url="https://raw.githubusercontent.com/Automattic/tdd-gpt-artifacts/trunk/releases/tdd-gpt-latest.zip"
+            url="https://raw.githubusercontent.com/Automattic/tdd-gpt-artifacts/trunk/releases/tdd-gpt-0.2.1.zip"
             name="TDD-GPT"
             version="0.2.1">
         <!--
